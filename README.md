@@ -104,6 +104,47 @@ The dataset contains information about applicants with the following features:
 
 * `loan-approval-prediction.ipynb` → Main project notebook
 
+## 🏠 3. House Price Prediction Project
+
+### 🔹 Overview
+
+This project focuses on predicting house prices using machine learning regression techniques. It analyzes various features such as location, size, and other property-related attributes to estimate the price of a house.
+
+### 🔹 Problem Statement
+
+* Predict the **price of a house** based on given input features
+
+### 🔹 Dataset Features
+
+* Area / Size
+* Number of Rooms
+* Location
+* Other property-related attributes
+
+### 🔹 Algorithms Used
+
+* Linear Regression
+* (Optional: other regression models if used)
+
+### 🔹 Workflow
+
+1. Data Preprocessing
+2. Feature Engineering
+3. Model Training
+4. Model Evaluation
+
+### 🔹 Technologies
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+
+### 🔹 File
+
+* `HOUSE _PRICE PREDICTION.ipynb`
+
+
 ---
 
 ## 👩‍💻 Author
